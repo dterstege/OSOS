@@ -1,6 +1,7 @@
 ## OSOS
+--------
 
-#OLYMPUS Slide-Scanner Output Sorter#
+# OLYMPUS Slide-Scanner Output Sorter
 
 Organizes the outputs that come from converting VSI files to TIF files when exporting images from an OLYMPUS slide scanning microscope.
 
